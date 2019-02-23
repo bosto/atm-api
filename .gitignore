@@ -1,4 +1,6 @@
 # Compiled class file
+*.mvnw
+*.mvnw.cmd
 *.class
 
 # Log file
